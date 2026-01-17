@@ -279,6 +279,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-*Last Updated: December 2023*  
-*Version: 1.0.0*  
-*Compatible with: Windows 10/11, macOS, Linux*
