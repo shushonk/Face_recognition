@@ -31,7 +31,7 @@ A complete, user-friendly face recognition system built with Streamlit. This app
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/shushonk/Face_recognition.git
 cd Face_recognition-master
 
 # Create virtual environment (optional but recommended)
